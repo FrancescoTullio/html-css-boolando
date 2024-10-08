@@ -115,6 +115,19 @@ img{
     z-index: 10;
 }
 
+.shift{
+    position: absolute;
+    z-index: -1;
+}
+
+.card-position:hover .shift{
+    z-index: 4;
+}
+
+.heart:hover{
+    color: red;
+}
+
 
 .card-position{
     position: relative;
