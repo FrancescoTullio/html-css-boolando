@@ -25,6 +25,12 @@ img{
     margin: 0 auto;
 }
 
+
+.background-header{
+    background-color: orange;
+}
+
+
 /**thypografi**/
 .text-white{
     color: white;
@@ -44,6 +50,10 @@ img{
     display: flex;
 }
 
+.fwrap{
+    flex-wrap: wrap;
+}
+
 .just-sbt{
     justify-content: space-between;
 }
@@ -52,13 +62,12 @@ img{
     align-items: center;
 }
 
-
-.background-header{
-    background-color: orange;
-}
-
 .gap-10{
     gap:10px
+}
+
+.card-size{
+    width:30%;
 }
 
 
@@ -74,6 +83,10 @@ img{
 
 .padding-header{
     padding: 10px;
+}
+
+.padding-main{
+    padding-top: 150px;
 }
 
 .width-30{
