@@ -43,6 +43,18 @@ img{
     font-weight: .7rem;
 }
 
+.text-left{
+    text-align: left;
+}
+
+.text-red{
+    color: red;
+}
+
+text-bar{
+    text-decoration-line: overline;
+}
+
 
 
 
@@ -146,3 +158,9 @@ img{
 .width-30{
     width: 200px;
 }
+
+.pad-descr{
+    padding: 30px;
+}
+
+
