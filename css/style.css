@@ -47,6 +47,10 @@ img{
     text-align: left;
 }
 
+text-center{
+    text-align: center;
+}
+
 .text-red{
     color: red;
 }
@@ -86,6 +90,14 @@ text-bar{
 
 .card-size{
     width:30%;
+}
+
+.lfooter{
+    width: 35%;
+}
+
+.rfooter{
+    width: 20%;
 }
 
 
@@ -153,6 +165,7 @@ text-bar{
 
 .padding-main{
     padding-top: 150px;
+    padding-bottom: 30px;
 }
 
 .width-30{
@@ -163,4 +176,17 @@ text-bar{
     padding: 30px;
 }
 
+.pad-bot{
+    padding: 20px;
+}
 
+
+
+
+
+/**footer**/
+
+.footer{
+    background-color: black;
+    min-height: 70px;
+}
