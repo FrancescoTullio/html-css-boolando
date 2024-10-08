@@ -30,6 +30,13 @@ img{
     background-color: orange;
 }
 
+bg-heart{
+    position: fixed;
+    background-color: white;
+    padding: 15px 15px;
+    z-index: 10;
+}
+
 
 /**thypografi**/
 .text-white{
@@ -66,6 +73,10 @@ img{
     gap:10px
 }
 
+.row-gap{
+    row-gap: 20px;
+}
+
 .card-size{
     width:30%;
 }
@@ -77,6 +88,10 @@ img{
     position: fixed;
     z-index: 999999;
     width: 100%;
+}
+
+.card-position{
+    position: relative;
 }
 
 /**utility**/

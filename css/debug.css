@@ -2,6 +2,10 @@
     border: 1px solid black;
 }
 
+.bg-debug{
+    background-color: aqua;
+}
+
 .bg-red{
     background-color: red;
     min-height: 200px;
